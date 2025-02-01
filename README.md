@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_720_1280/0/1626934133895?e=1726704000&v=beta&t=TN_xPVH9kkZQAJRBs65ss_51-7x8CCK9Vw_60XYbW3Q)](https://rishavchanda.io)
+ 
 <h1 align="center">Hi 👋, I'm Saba Ali</h1>
 <h3 align="center">A passionate web3 developer from Pakistan.</h3>
 
