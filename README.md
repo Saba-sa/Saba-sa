@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQE8R-PMD0SdVQ/article-cover_image-shrink_720_1280/0/1626934133895?e=1726704000&v=beta&t=TN_xPVH9kkZQAJRBs65ss_51-7x8CCK9Vw_60XYbW3Q)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saba Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate web3 developer from Pakistan.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saba-sa&label=Profile%20views&color=0e75b6&style=flat" alt="saba-sa" />
@@ -8,10 +8,6 @@
 
 <img align="right" alt="Coding" width="400" src="./assets/devbytes.png" />
 
-- 🔭 I’m currently working on **creating a courses site.** 
-- 🌱 I’m currently learning **Firebase and Redux for my upcoming project.** 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Tailwind, and Bootstrap.** 
-- 📫 How to reach me **iamsabaaly@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
