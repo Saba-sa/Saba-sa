@@ -1,63 +1,88 @@
- 
-<h1 align="center">Hi 👋, I'm Saba Ali</h1>
-<h3 align="center">A passionate web3 developer from Pakistan.</h3>
+<h1 align="center">Hey 👋, I'm Saba Ali</h1>
+<h3 align="center">Web3 Developer | Blockchain Engineer | DApp Builder from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saba-sa&label=Profile%20views&color=0e75b6&style=flat" alt="saba-sa" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="./assets/devbytes.png" />
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/saba-ali-0a5365253" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba-ali-0a5365253" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saba-sa&show_icons=true&locale=en&layout=compact" alt="saba-sa" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saba-sa&show_icons=true&locale=en" alt="saba-sa" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saba-sa&" alt="saba-sa" />
-</p>
-
-<h3 align="left">GitHub Trophies:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saba-sa" alt="saba-sa" />
+  <img src="./assets/devbytes.png" alt="Saba Ali DevBytes" width="400" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **SmartStay**, a blockchain-powered rental platform.
+- 🌱 Learning deeply about **Smart Contracts**, **ZK Tech**, **TanStack**, and **MERN Stack**.
+- 💡 Passionate about building **secure**, **scalable**, and **user-friendly** decentralized applications.
+- 📹 I share my journey and tutorials on **[DevBytes YouTube Channel](https://www.youtube.com/@DevBytes6)**.
+- ⚡ Fun fact: I can turn coffee ☕ into deployed smart contracts.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/saba-ali-0a5365253" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="mailto:sabaali.dev@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@devbytes-web3" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-<div align="center">
-  <img src="./assets/github-snake.svg" alt="game" width="100%" />
-</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saba-sa&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saba-sa&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-sa&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saba-sa&theme=algolia&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🐍 Activity Snake
+
+<p align="center">
+  <img src="./assets/github-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+> “Code with purpose. Build with heart. Deploy with confidence.”
+
+---
+
