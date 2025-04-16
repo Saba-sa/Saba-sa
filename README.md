@@ -43,10 +43,10 @@
   <a href="https://linkedin.com/in/saba-ali-0a5365253" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="mailto:sabaali.dev@gmail.com">
+  <a href="mailto:iamsabaaly@gmail.com">
     <img src="https://img.shields.io/badge/email-%23ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@devbytes-web3" target="_blank">
+  <a href="https://www.youtube.com/@DevBytes6" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
