@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+<img src="./assets/github-snake.svg" alt="snake animation" />
 
 ---
 
