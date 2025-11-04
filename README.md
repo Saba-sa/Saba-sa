@@ -4,12 +4,11 @@
 
 <div align="center">
   
-  ### 🚀 Web3 Developer | Blockchain Engineer | DApp Architect
+  ### 🚀 Front end Developer | Blockchain Engineer | Web3 Developer
   
   <img src="https://komarev.com/ghpvc/?username=saba-sa&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   
   **Building the decentralized future, one smart contract at a time** 🇵🇰
-  
 </div>
 
 <br>
@@ -21,10 +20,6 @@ const saba = {
     location: "Pakistan 🇵🇰",
     currentFocus: "SmartStay - Blockchain-Powered Rental Platform",
     learning: ["Smart Contracts", "Zero-Knowledge Proofs", "TanStack", "MERN Stack"],
-    passion: "Creating secure, scalable & user-friendly DApps",
-    contentCreator: "DevBytes YouTube Channel",
-    superpower: "Turning coffee ☕ into deployed smart contracts",
-    lifePhilosophy: "Code with purpose. Build with heart. Deploy with confidence."
 };
 ```
 
@@ -58,8 +53,6 @@ const saba = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </td>
@@ -77,8 +70,7 @@ const saba = {
 ![RainbowKit](https://img.shields.io/badge/RainbowKit-FF7D4D?style=for-the-badge)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
-
+ 
 </td>
 </tr>
 
@@ -91,8 +83,7 @@ const saba = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+ 
 </td>
 </tr>
 </table>
@@ -103,38 +94,17 @@ const saba = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saba-sa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=saba-sa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saba-sa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=saba-sa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saba-sa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
+<br>
+ 
 <br>
 
-## 🎯 Current Mission
-
-🔨 **SmartStay** - Revolutionizing the rental industry with blockchain technology
-- Smart contract-based booking system
-- Decentralized payment processing
-- Transparent review mechanism
-- Secure identity verification
-
-<br>
-
-## 📺 Content & Community
-
-I share my Web3 development journey, tutorials, and insights on my YouTube channel!
-
+ 
 <div align="center">
   <a href="https://www.youtube.com/@DevBytes6" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=red&label=DevBytes&labelColor=black&color=red" alt="YouTube" />
@@ -158,14 +128,6 @@ I share my Web3 development journey, tutorials, and insights on my YouTube chann
   <a href="mailto:iamsabaaly@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br>
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br>
